@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    
+}
+
+body{
+    
+}
+
+input{
+    text-align: center;
+}
+
+.searchText{
+    height:50px;
+    width:100px;
+    background-color: aquamarine;
+    font-weight:bold;
+    font-size: 30px;
+    
+}
