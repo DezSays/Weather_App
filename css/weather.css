@@ -2,6 +2,7 @@
     margin:0px;
     padding:0px;
     box-sizing: border-box;
+    text-align: center;
     
 }
 
@@ -13,11 +14,18 @@ input{
     text-align: center;
 }
 
-.searchText{
+input[type="text"]{
+    height:50px;
+    width:600px;
+    background-color: aquamarine;
+    font-size: 30px;
+    
+}
+
+input[type="submit"]{
     height:50px;
     width:100px;
     background-color: aquamarine;
-    font-weight:bold;
     font-size: 30px;
     
 }
